@@ -1,6 +1,6 @@
 [submodule "todoapp"]
-	path = todoapp
+	path = src/todoapp
 	url = https://github.com/fatihkurt/todoapp.git
 [submodule "todo-server"]
-	path = todo-server
+	path = src/todo-server
 	url = https://github.com/fatihkurt/todo-server.git
