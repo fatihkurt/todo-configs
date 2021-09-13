@@ -34,7 +34,7 @@ spec:
       serviceAccountName: default
       containers:
         - name: server
-          image: gcr.io/mnisa-todo/react-frontend
+          image: gcr.io/mnisa-todo/react-frontend.prod
           ports:
           - containerPort: 8080
           readinessProbe:
